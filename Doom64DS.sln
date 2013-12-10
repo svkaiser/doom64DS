@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Doom64DS", "Doom64DS.vcproj", "{DA4C47C6-E234-4FB6-9CCC-A2F2F03415C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4C47C6-E234-4FB6-9CCC-A2F2F03415C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA4C47C6-E234-4FB6-9CCC-A2F2F03415C7}.Debug|Win32.Build.0 = Debug|Win32
+		{DA4C47C6-E234-4FB6-9CCC-A2F2F03415C7}.Release|Win32.ActiveCfg = Release|Win32
+		{DA4C47C6-E234-4FB6-9CCC-A2F2F03415C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
